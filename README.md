@@ -10,3 +10,4 @@ The following packages need to be installed:
 2. Second part: Classification based on simple parameters
 3. Third part: Data cleaning and model improvement. 
 
+Additional details about the steps are available as comments in the code
